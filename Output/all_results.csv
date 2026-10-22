@@ -1,0 +1,19 @@
+"model","term","estimate","nw_se","n"
+"1990-present, full sample","(Intercept)",2.379,1.158,145
+"1990-present, full sample","inflation",0.462,0.524,145
+"1990-present, full sample","gap",-0.729,0.159,145
+"1990-present, excl. ZLB","(Intercept)",2.225,1.179,109
+"1990-present, excl. ZLB","inflation",0.678,0.515,109
+"1990-present, excl. ZLB","gap",-0.737,0.388,109
+"1960-1979","(Intercept)",1.622,0.241,78
+"1960-1979","inflation",0.865,0.079,78
+"1960-1979","gap",-1,0.227,78
+"1987-2007","(Intercept)",1.026,0.602,82
+"1987-2007","inflation",1.643,0.19,82
+"1987-2007","gap",-1.711,0.196,82
+"2008+, excl. ZLB","(Intercept)",0.76,0.852,37
+"2008+, excl. ZLB","inflation",0.687,0.374,37
+"2008+, excl. ZLB","gap",-0.416,0.31,37
+"2008+, incl. ZLB","(Intercept)",0.923,0.82,73
+"2008+, incl. ZLB","inflation",0.431,0.39,73
+"2008+, incl. ZLB","gap",-0.377,0.118,73
